@@ -26,3 +26,8 @@ Depicted: 12 volt Wathai 75mm x 30mm Blower Fan Dual Ball
 
 **6) 2 count M4x38, 4 count M4x20 screws**
 ![](./06_.jpg)
+
+---
+
+**7) 6 count M4 nuts**
+![](./07_.jpg)
